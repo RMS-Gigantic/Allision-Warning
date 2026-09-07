@@ -6,9 +6,8 @@ This is an English-language localization mod for World of Warships; it is intend
 
 # How to Install:
 1. Install the LocalizationLoader; instructions on how to do so can be found in that repository's README.
-2. Within the game's ``bin\<wows_version>\res_mods`` directory, create a ``texts\en`` directory (if one does not already exist).
-3. Place this repository's ``Allision.mo`` file into the aforementioned ``en`` folder.
-4. Done!
+2. Place this repository's ``texts\en\Allision.mo`` directory into your client's ``bin\<wows_version>\res_mods`` folder.
+3. Done!
 
 # How to Uninstall:
 1. Delete the ``Allision.mo`` file from ``bin\<wows_version>\res_mods\texts\en``.
